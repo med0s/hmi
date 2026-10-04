@@ -1,0 +1,29 @@
+file,part,vendor,url,notes
+STM32H743_datasheet.pdf,STM32H743IIT6,ST,https://www.st.com/resource/en/datasheet/stm32h743vi.pdf,Covers all H742/H743/H753 packages incl. LQFP176
+RM0433_STM32H743_reference_manual.pdf,STM32H743 reference manual,ST,https://www.st.com/resource/en/reference_manual/rm0433-stm32h742-stm32h743753-and-stm32h750-value-line-advanced-armbased-32bit-mcus-stmicroelectronics.pdf,Large (~3000 pages); firmware reference
+AN4938_STM32H74x_hardware.pdf,AN4938 hardware getting started,ST,https://www.st.com/resource/en/application_note/an4938-getting-started-with-stm32h74xig-and-stm32h75xig-mcu-hardware-development-stmicroelectronics.pdf,VCAP/decoupling/boot rules
+AN2867_oscillator_design.pdf,AN2867 oscillator design,ST,https://www.st.com/resource/en/application_note/an2867-guidelines-for-oscillator-design-on-stm8afals-and-stm32-mcusmpus-stmicroelectronics.pdf,Crystal load caps and gm margin
+TPS65150.pdf,TPS65150PWP,TI,https://www.ti.com/lit/ds/symlink/tps65150.pdf,LCD bias
+TPS54360B.pdf,TPS54360B,TI,https://www.ti.com/lit/ds/symlink/tps54360b.pdf,5 V buck (RT/EN/COMP equations)
+TLV62569.pdf,TLV62569,TI,https://www.ti.com/lit/ds/symlink/tlv62569.pdf,3.3 V buck
+TPS22918.pdf,TPS22918,TI,https://www.ti.com/lit/ds/symlink/tps22918.pdf,Load switches
+TPS61165.pdf,TPS61165,TI,https://www.ti.com/lit/ds/symlink/tps61165.pdf,Backlight driver
+LP2951.pdf,LP2951 (SO-8 adj),TI,https://www.ti.com/lit/ds/symlink/lp2951.pdf,AVDD LDO
+THVD1450.pdf,THVD1450,TI,https://www.ti.com/lit/ds/symlink/thvd1450.pdf,RS485 transceiver
+TPD4E05U06.pdf,TPD4E05U06,TI,https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf,Touch ESD
+M24C64.pdf,M24C64-R,ST,https://www.st.com/resource/en/datasheet/m24c64-r.pdf,EEPROM
+USBLC6-2.pdf,USBLC6-2SC6,ST,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,USB ESD
+BAT54_series.pdf,BAT54S,Nexperia,https://assets.nexperia.com/documents/data-sheet/BAT54_SER.pdf,Charge pump diodes (check BAT54S pinout)
+MBRS130L.pdf,MBRS130LT3,onsemi,https://www.onsemi.com/pdf/datasheet/mbrs130lt3-d.pdf,TPS65150 boost diode
+SS12-SS16.pdf,SS14,Vishay,https://www.vishay.com/docs/88746/ss12.pdf,Backlight Schottky
+B320-B360.pdf,B360,Diodes Inc,https://www.diodes.com/assets/Datasheets/ds13002.pdf,Reverse polarity + catch diode
+SP3232E.pdf,SP3232E,MaxLinear,https://www.maxlinear.com/ds/sp3232e.pdf,RS232 option
+SM712.pdf,SM712,Semtech,https://www.semtech.com/uploads/documents/sm712.pdf,RS485 TVS
+USB4105.pdf,USB4105-GF-A,GCT,https://gct.co/files/drawings/usb4105.pdf,USB-C receptacle drawing
+JST_PH.pdf,B4B-PH-K-S,JST,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf,TTL connector
+W9812G6KH.pdf,W9812G6KH-6,Winbond,,Search winbond.com product page for W9812G6KH
+W25Q256JV.pdf,W25Q256JVEIQ,Winbond,,Search winbond.com product page for W25Q256JV
+SMBJ_series.pdf,SMBJ36A,Littelfuse,,Search littelfuse.com SMBJ series datasheet
+Hirose_DM3AT.pdf,DM3AT-SF-PEJM5,Hirose,,Search hirose.com product page (microSD)
+Hirose_FH12.pdf,FH12-50S-0.5SH(55),Hirose,,Search hirose.com FH12 series (or chosen dual-contact 50-pin connector)
+GT911.pdf,GT911,Goodix,,No official public link; use DWIN or panel supplier copy; never a random forum file without checking revision
